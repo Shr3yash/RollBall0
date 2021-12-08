@@ -3,7 +3,7 @@
     <img src="It's%20snowing/RollBall_Logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">A pure Python game </h3>
+  <h3 align="center">A Pure Python game </h3>
 
   <p align="center">
    using Pygame and other libraries
