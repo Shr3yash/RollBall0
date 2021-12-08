@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://github.com/DrCybernotix/eSKIMo/blob/main/DemoImages/eSKIMo_Logo.png">
-    <img src="DemoImages/eSKIMo_Logo.png" alt="Logo">
+  <a href="https://github.com/DrCybernotix/RollBall/blob/main/It's%20snowing/RollBall_Logo.png">
+    <img src="It's%20snowing/RollBall_Logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">The Skimmer&Labelizer</h3>
+  <h3 align="center">A pure Python game </h3>
 
   <p align="center">
-    A text labelizing tool build using TensorFlow!
+   using Pygame and other libraries
     <br />
     <a href="https://github.com/RollBall/README.md"><strong>Explore the docs »</strong></a>
     <br />
