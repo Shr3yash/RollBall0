@@ -8,7 +8,7 @@
   <p align="center">
    using Pygame and other libraries
     <br />
-    <a href="https://github.com/RollBall/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DrCybernotix/RollBall/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/RollBall/README.md">View Demo</a>
@@ -18,3 +18,6 @@
     <a href="https://github.com/RollBall/issues">Request Feature</a>
   </p>
 </div>
+
+# About this repository:
+The following is a game made on Python, do the following imports and run the project through your terminal.
