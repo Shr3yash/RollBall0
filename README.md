@@ -55,3 +55,9 @@ $> pip install -e ."[docs]"
 $> cd docs
 $> make html
 ```
+Then change the directory to where your project is cloned by following command:
+```sh
+cd CloneLocation
+python RollBall.py
+```
+
