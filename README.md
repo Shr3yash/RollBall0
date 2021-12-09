@@ -34,6 +34,7 @@ Click here to install Git in your OS =>
 Make sure you have latest version of PIP in your system, if not use this to install/update PIP in your OS:
 
 [Windows](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
+or
 [macOS](https://www.geeksforgeeks.org/how-to-install-pip-in-macos/)
 
 Now install these dependencies : 
