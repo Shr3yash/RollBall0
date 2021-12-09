@@ -21,3 +21,12 @@
 
 # About this repository:
 The following is a game made on Python, do the following imports and run the project through your terminal.
+
+```sh
+git clone https://github.com/DrCybernotix/RollBall.git
+```
+Make sure you have latest Git version, if not run the following through your command prompt:
+Click here to install Git in your OS =>
+[Install Git](https://github.com/git-guides/install-git#:~:text=To%20install%20Git%2C%20navigate%20to,installation%20by%20typing%3A%20git%20version%20.)
+
+Now install these dependencies : 
