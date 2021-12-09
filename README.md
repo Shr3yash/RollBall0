@@ -26,7 +26,31 @@ The following is a game made on Python, do the following imports and run the pro
 git clone https://github.com/DrCybernotix/RollBall.git
 ```
 Make sure you have latest Git version, if not run the following through your command prompt:
+
 Click here to install Git in your OS =>
+
 [Install Git](https://github.com/git-guides/install-git#:~:text=To%20install%20Git%2C%20navigate%20to,installation%20by%20typing%3A%20git%20version%20.)
 
+Make sure you have latest version of PIP in your system, if not use this to install/update PIP in your OS:
+
+[Windows](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
+[macOS](https://www.geeksforgeeks.org/how-to-install-pip-in-macos/)
+
 Now install these dependencies : 
+```sh
+pip install pygame
+pip install time
+pip install random
+pip install pygame
+```
+```
+$> pip install pygame-menu -U
+```
+To build the documentation from a Git repository:
+```
+$> clone https://github.com/ppizarror/pygame-menu
+$> cd pygame-menu
+$> pip install -e ."[docs]"
+$> cd docs
+$> make html
+```
