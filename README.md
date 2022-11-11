@@ -68,6 +68,8 @@ python RollBall.py
   <img src="https://github.com/Shr3yash/RollBall/blob/main/It's%20snowing/Screenshot%20(5).png?raw=true" width="400" height="320" />
   <img src="https://github.com/Shr3yash/RollBall/blob/main/It's%20snowing/Screenshot%20(4).png?raw=true" width="300" height="220" />
 </div>
+
+The game can be run normally without supplying any options. For non gameplay related usage, use --help
 ![Gameplay]()
 
 ![Gameplay1](https://github.com/Shr3yash/RollBall/blob/main/It's%20snowing/Screenshot%20(5).png?raw=true)
